@@ -2,19 +2,15 @@
 
 <!--
 **eliseocutrona/eliseocutrona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Por supuesto, agradezco la aclaración. Aquí tienes la introducción y las tareas de Eliseo Cutrona en el formato que proporcionaste:
 -->
 
 ### >_ About me:
-Soy Eliseo Cutrona,  Applications Support Senior Analyst en Grupo Techint, con un enfoque sólido en el desarrollo de aplicaciones. 
-Mi experiencia abarca el uso experto de tecnologías como .NET, Angular, HTML, y JIRA. 
+Soy Eliseo Cutrona,  Applications Support Senior Analyst en Grupo Techint, con un enfoque en el desarrollo de aplicaciones. 
+Mi experiencia abarca el uso de tecnologías como .NET, Angular, HTML, ,  JIRA, Excel y Toad.
 También tengo experiencia en PL/SQL y en gestionar entornos con MySQL y NoSQL (MongoDB). 
-Además, soy hábil en el manejo de tecnologías .NET Framework, C#, y he trabajado en el desarrollo de software utilizando enfoques de programación orientada a objetos (OOP). 
+Además, tengo manejo de tecnologías .NET Framework, C#, y he trabajado en el desarrollo de software utilizando enfoques de programación orientada a objetos (OOP). 
 
-Fuera del ámbito profesional, disfruto del crossfit y , por supuesto, relajarme con una deliciosa pizza 🍕.
+Fuera del ámbito profesional, disfruto del crossfit y , por supuesto, relajarme con una cerveza.
 
 ### >_ Find me at:
 Linkedin_Follow
