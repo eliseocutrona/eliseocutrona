@@ -9,10 +9,8 @@ I'm Applications Support Senior Analyst at Grupo Techint, focusing on applicatio
 </br>
 My experience includes using technologies like .NET, Angular, HTML, JIRA, Excel, and Toad. 
 </br>
-
 I also have expertise in PL/SQL and managing environments with MySQL and NoSQL (MongoDB). 
 </br>
-
 Additionally,I'm skilled in .NET Framework, C#, and have worked on software development using object-oriented programming (OOP) approaches.
 </br>
 
