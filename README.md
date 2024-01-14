@@ -75,13 +75,6 @@ Toad JavaScript NoSQL (MongoDB) SVN
 [![Scrum](https://img.shields.io/badge/Scrum-555555?style=for-the-badge&logo=scrum-alliance&logoColor=white&labelColor=101010)](#)
 
 
-### >_ Responsibilities:
-
-- Acquire functional and technical knowledge of key Human Resources applications (Performance Management, Compensation, Digital Procedures, and Certificates).
-- Understand the Human Resources data model and proficiently navigate the incident management system (JIRA).
-- Provide user support, troubleshoot technical or functional errors in applications within a team.
-- Identify areas for improvement in processes/applications and propose implementation methods.
-- Enhance the quality of applications and reduce production incidents reported by users.
 
 
 
