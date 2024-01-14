@@ -46,6 +46,8 @@ Toad JavaScript NoSQL (MongoDB) SVN
 - Identify areas for improvement in processes/applications and propose implementation methods.
 - Enhance the quality of applications and reduce production incidents reported by users.
 
+<!--
+**eliseocutrona/eliseocutrona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -57,4 +59,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
