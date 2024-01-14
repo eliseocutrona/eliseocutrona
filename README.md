@@ -14,7 +14,7 @@ Fuera del ámbito profesional, disfruto del crossfit y , por supuesto, relajarme
 
 ### >_ Find me at:
 
-[![Linkedin_Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/daniel-romero-garnica/](https://www.linkedin.com/in/eliseo-cutrona/))
+[![Linkedin_Follow] ([https://www.linkedin.com/in/daniel-romero-garnica/](https://www.linkedin.com/in/eliseo-cutrona/))
 
 
 
