@@ -13,7 +13,10 @@ Además, tengo manejo de tecnologías .NET Framework, C#, y he trabajado en el d
 Fuera del ámbito profesional, disfruto del crossfit y , por supuesto, relajarme con una cerveza.
 
 ### >_ Find me at:
-Linkedin_Follow
+
+[![Linkedin_Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/daniel-romero-garnica/](https://www.linkedin.com/in/eliseo-cutrona/))
+
+
 
 ### >_ Skills:
 
