@@ -5,10 +5,12 @@
 -->
 
 ### >_ About me:
-Soy Eliseo Cutrona,  Applications Support Senior Analyst en Grupo Techint, con un enfoque en el desarrollo de aplicaciones. 
-Mi experiencia abarca el uso de tecnologías como .NET, Angular, HTML, ,  JIRA, Excel y Toad.
-También tengo experiencia en PL/SQL y en gestionar entornos con MySQL y NoSQL (MongoDB). 
-Además, tengo manejo de tecnologías .NET Framework, C#, y he trabajado en el desarrollo de software utilizando enfoques de programación orientada a objetos (OOP). 
+I'm Applications Support Senior Analyst at Grupo Techint, focusing on application development. 
+My experience includes using technologies like .NET, Angular, HTML, JIRA, Excel, and Toad. 
+I also have expertise in PL/SQL and managing environments with MySQL and NoSQL (MongoDB). 
+Additionally,I'm skilled in .NET Framework, C#, and have worked on software development using object-oriented programming (OOP) approaches.
+
+Outside the professional realm, I enjoy crossfit, and of course, relaxing with a beer.
 
 Fuera del ámbito profesional, disfruto del crossfit y , por supuesto, relajarme con una cerveza.
 
