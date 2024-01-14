@@ -46,10 +46,13 @@ Toad JavaScript NoSQL (MongoDB) SVN
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](#)
 [![NoSQL (MongoDB)](https://img.shields.io/badge/NoSQL_MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)](#)
+[![Object-Oriented Programming (OOP)](https://img.shields.io/badge/Object_Oriented_Programming-555555?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=101010)](#)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)](#)
 
 ### Project Management and Tools
 [![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)](#)
 [![Toad](https://img.shields.io/badge/Toad-555555?style=for-the-badge&logo=toad&logoColor=white&labelColor=101010)](#)
+[![Scrum](https://img.shields.io/badge/Scrum-555555?style=for-the-badge&logo=scrum-alliance&logoColor=white&labelColor=101010)](#)
 
 ### Databases
 [![PL/SQL](https://img.shields.io/badge/PLSQL-FF4500?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)](#)
@@ -58,15 +61,6 @@ Toad JavaScript NoSQL (MongoDB) SVN
 ### Problem Solving and Office Tools
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=101010)](#)
 [![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=101010)](#)
-
-### Development and Additional Technologies
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)](#)
-[![Object-Oriented Programming (OOP)](https://img.shields.io/badge/Object_Oriented_Programming-555555?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=101010)](#)
-[![Scrum](https://img.shields.io/badge/Scrum-555555?style=for-the-badge&logo=scrum-alliance&logoColor=white&labelColor=101010)](#)
-
-
-
-
 
 
 
