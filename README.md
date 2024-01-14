@@ -5,8 +5,8 @@
 
 
 
-
 Por supuesto, agradezco la aclaración. Aquí tienes la introducción y las tareas de Eliseo Cutrona en el formato que proporcionaste:
+-->
 
 >_ About me:
 Soy Eliseo Cutrona, un experimentado Applications Support Senior Analyst en Grupo Techint, con un enfoque sólido en el desarrollo de aplicaciones. Mi experiencia abarca el uso experto de tecnologías como .NET, Angular, HTML, y JIRA. También tengo experiencia en PL/SQL y en gestionar entornos con MySQL y NoSQL (MongoDB). Además, soy hábil en el manejo de tecnologías .NET Framework, C#, y he trabajado en el desarrollo de software utilizando enfoques de programación orientada a objetos (OOP). Fuera del ámbito profesional, disfruto de la escalada, el ciclismo y, por supuesto, relajarme con una deliciosa pizza 🍕.
@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
