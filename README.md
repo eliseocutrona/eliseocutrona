@@ -31,16 +31,11 @@ Toad JavaScript NoSQL (MongoDB) SVN
 
 ### >_ Responsibilities:
 
-- Adquirir conocimiento funcional y técnico de las principales aplicaciones de Recursos Humanos (Gestión del Rendimiento, Compensaciones, Procedimientos y Comprobantes Digitales).
-- Conocer el modelo de datos de Recursos Humanos y manejar el sistema de gestión de incidentes (JIRA).
-- Brindar soporte a los usuarios; verificar errores técnicos o funcionales de las aplicaciones dentro de un equipo.
-- Detectar puntos de mejora en los procesos/aplicaciones y proponer la forma de implementación.
-- Mejorar la calidad de las aplicaciones y reducir los incidentes de producción reportados por los usuarios.
-
-... ¡y siempre estoy ansioso por seguir aprendiendo y mejorando! ...
-
-Si necesitas más ajustes o alguna modificación, no dudes en decírmelo.
-
+- Acquire functional and technical knowledge of key Human Resources applications (Performance Management, Compensation, Digital Procedures, and Certificates).
+- Understand the Human Resources data model and proficiently navigate the incident management system (JIRA).
+- Provide user support, troubleshoot technical or functional errors in applications within a team.
+- Identify areas for improvement in processes/applications and propose implementation methods.
+- Enhance the quality of applications and reduce production incidents reported by users.
 
 
 Here are some ideas to get you started:
