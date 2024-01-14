@@ -79,7 +79,7 @@ Toad JavaScript NoSQL (MongoDB) SVN
 [![Object-Oriented Programming (OOP)](https://img.shields.io/badge/Object_Oriented_Programming-555555?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=101010)](#)
 [![Software Development](https://img.shields.io/badge/Software_Development-008CFF?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=101010)](#)
 [![Information Technology](https://img.shields.io/badge/Information_Technology-39B54A?style=for-the-badge&logo=cisco&logoColor=white&labelColor=101010)](#)
-[![Scrum](https://img.shields.io/badge/Scrum-555555?style=for-the
+[![Scrum](https://img.shields.io/badge/Scrum-555555?style=for-the-badge&logo=scrum-alliance&logoColor=white&labelColor=101010)](#)
 
 
 ### >_ Responsibilities:
