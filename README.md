@@ -5,7 +5,7 @@
 -->
 
 ### >_ About me:
-As an Applications Support Senior Analyst at Grupo Techint, I specialize in HR application development, proficient in .NET, Angular, HTML, Jira, and PL/SQL.
+I am Applications Support Senior Analyst at Grupo Techint, I specialize in HR application development, proficient in .NET, Angular, HTML, Jira, and PL/SQL.
 
 My role involves providing user support, identifying and resolving application issues, and proposing enhancements.
 
