@@ -55,28 +55,23 @@ Toad JavaScript NoSQL (MongoDB) SVN
 [![PL/SQL](https://img.shields.io/badge/PLSQL-FF4500?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](#)
 
-### Technical Support and Continuous Improvement
+### Technical Support 
 [![Technical Support](https://img.shields.io/badge/Technical_Support-008CFF?style=for-the-badge&logo=service-now&logoColor=white&labelColor=101010)](#)
 [![Continuous Improvement](https://img.shields.io/badge/Continuous_Improvement-39B54A?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=101010)](#)
-
-### Technical Documentation and Incident Resolution
 [![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-555555?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=101010)](#)
 [![Incident Resolution](https://img.shields.io/badge/Incident_Resolution-FF8C00?style=for-the-badge&logo=circleci&logoColor=white&labelColor=101010)](#)
-
-### Testing and Analysis
 [![Test Case Management](https://img.shields.io/badge/Test_Case_Management-555555?style=for-the-badge&logo=junit5&logoColor=white&labelColor=101010)](#)
 [![Analytical Skills](https://img.shields.io/badge/Analytical_Skills-008CFF?style=for-the-badge&logo=qlik&logoColor=white&labelColor=101010)](#)
+[![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF4500?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=101010)](#)
+
 
 ### Problem Solving and Office Tools
-[![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF4500?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=101010)](#)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=101010)](#)
 [![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=101010)](#)
 
 ### Development and Additional Technologies
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)](#)
 [![Object-Oriented Programming (OOP)](https://img.shields.io/badge/Object_Oriented_Programming-555555?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=101010)](#)
-[![Software Development](https://img.shields.io/badge/Software_Development-008CFF?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=101010)](#)
-[![Information Technology](https://img.shields.io/badge/Information_Technology-39B54A?style=for-the-badge&logo=cisco&logoColor=white&labelColor=101010)](#)
 [![Scrum](https://img.shields.io/badge/Scrum-555555?style=for-the-badge&logo=scrum-alliance&logoColor=white&labelColor=101010)](#)
 
 
